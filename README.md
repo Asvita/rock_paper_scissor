@@ -1,2 +1,1 @@
-# rock_paper_scissor
-rock paper scissor
+# ROCK_PAPER_SCISSOR_GAME
